@@ -1,4 +1,3 @@
-# Module_3
 ## Project Title  
 DegenToken ERC20 Contract with Loyalty Points
 
